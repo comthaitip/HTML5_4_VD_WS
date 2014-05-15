@@ -1,0 +1,12 @@
+@import url(fonts/thsarabunnew.css);
+
+/* CSS Document */
+
+@font-face {
+    font-family: Bree;
+    src: url("fonts/Bree.otf");
+}
+
+body {
+    font-family: Bree, THSarabunNew;	
+}

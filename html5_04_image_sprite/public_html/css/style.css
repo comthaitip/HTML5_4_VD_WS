@@ -1,0 +1,38 @@
+/*
+Author & Facebook: Kasiti Panthanom
+E-Mail: kasiti@cityhubs.net, comthaitip@gmail.com
+*/
+/* 
+    Created on : 15 พ.ค. 2557, 7:01:04
+    Author     : Super User
+*/
+
+#topmenu {
+    background:url("../images/nav-final.jpg") no-repeat;
+    width: 490px;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+#topmenu li, #topmenu a {
+    height: 40px;
+    display: block;
+}
+
+#topmenu li {
+    float: left;
+    list-style: none;
+    display: inline;
+    text-indent: -9999em;
+}
+
+#link-1 { width: 98px; }
+#link-2 { width: 131px; }
+#link-3 { width: 123px; }
+#link-4 { width: 138px; }
+
+#link-1 a:hover { background:url("../images/nav-final.jpg") 0px -40px no-repeat; }
+#link-2 a:hover { background:url("../images/nav-final.jpg") -98px -40px no-repeat; }
+#link-3 a:hover { background:url("../images/nav-final.jpg") -229px -40px no-repeat; }
+#link-4 a:hover { background:url("../images/nav-final.jpg") -352px -40px no-repeat; }
